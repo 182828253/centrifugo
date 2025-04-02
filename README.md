@@ -13,7 +13,7 @@ Releases available as single executable files – just [download latest release]
 If you are on MacOS:
 
 ```
-brew tap centrifugal/centrifugo https://github.com/nzlov/centrifugo
+brew tap centrifugal/centrifugo https://github.com/pos888/centrifugo
 brew install centrifugo
 ```
 
